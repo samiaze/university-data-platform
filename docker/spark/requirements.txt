@@ -1,0 +1,15 @@
+
+pyarrow>=14.0.0
+
+pandas>=2.0.0
+
+numpy>=1.24.0
+
+
+pydantic>=2.6.0
+
+pydantic-settings>=2.0.0
+
+loguru==0.7.3
+
+elasticsearch==8.12.1
